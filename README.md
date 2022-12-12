@@ -2,7 +2,7 @@
 
 This repository provides an I-Python notebook to analyze inconsistency in recommender systems by evaluating accuracy, miscalibration and popularity lift.
 
-For executing it, please download the datasets from https://doi.org/10.5281/zenodo.7428435 and copy the files into the "data" folder. The rest is given in the notebook
+For executing it, please download the datasets from https://doi.org/10.5281/zenodo.7428435 and copy the files into the "data" folder. The rest is given in the notebook, which will be provided soon
 
 ### Requirements
 * Python 3
